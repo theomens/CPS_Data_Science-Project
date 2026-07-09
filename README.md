@@ -23,14 +23,14 @@ dataset:
 ## Repository Structure
 
 ```
-titanic-data-science-project/
+data-science-project/
 ├── README.md                      <- this file
 ├── notebook/
-│   └── titanic_analysis.ipynb     <- full Jupyter notebook (all tasks)
+│   └── Exploratory Data Analysis, Statistical Analysis and Machine Learning using a Real-World Dataset.ipynb     <- full Jupyter notebook (all tasks)
 ├── data/
 │   └── titanic.csv                <- Titanic dataset (Kaggle train.csv)
 ├── report/
-│   └── Titanic_Project_Report.pdf <- formal written report (PDF)
+│   └── Project_Report.pdf <- formal written report (PDF)
 └── requirements.txt                <- Python package dependencies
 ```
 
@@ -46,8 +46,8 @@ It contains 891 passenger records with demographic and travel details, and a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/titanic-data-science-project.git
-cd titanic-data-science-project
+git clone https://github.com/firekay02/data-science-project.git
+cd data-science-project
 ```
 
 ### 2. Install dependencies
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ### 3. Run the notebook
 ```bash
-jupyter notebook notebook/titanic_analysis.ipynb
+jupyter notebook notebook/Exploratory Data Analysis, Statistical Analysis and Machine Learning using a Real-World Dataset.ipynb
 ```
 
 ## Key Results
