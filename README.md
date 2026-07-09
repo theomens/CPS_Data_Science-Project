@@ -1,4 +1,4 @@
-# Titanic Data Science Project — BCS 404
+# Data Science Project — BCS 404
 
 Exploratory data analysis, statistical analysis, and machine learning on the
 Kaggle Titanic dataset, submitted for **BCS 404: Introduction to Data Science
@@ -73,8 +73,8 @@ jupyter notebook notebook/titanic_analysis.ipynb
 
 ## Author
 
-- **Name:** _[Enter your name]_
-- **Index Number:** _[Enter your index number]_
+- **Name:** _Ramseyer Asuah_
+- **Index Number:** _01258065B_
 - **Course:** BCS 404 — Introduction to Data Science with Python
 
 ## License
